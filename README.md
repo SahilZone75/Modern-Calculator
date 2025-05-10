@@ -19,7 +19,7 @@ A simple and modern calculator web application built using **HTML**, **CSS**, an
 
 ## 📸 Preview
 
-![Calculator Screenshot](screenshot.png)
+![Calculator Screenshot](https://github.com/SahilZone75/Modern-Calculator/blob/main/Calc%20Using%20JS/screenshot.png)
 
 
 
